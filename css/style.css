@@ -42,7 +42,7 @@ body {
 }
 
 .one span:last-child {
-  color: #ea8e75;
+  color: #ed8728;
   font-weight: bold;
 }
 
@@ -85,7 +85,7 @@ body {
   right: 5px;
   bottom: 5px;
   color: #fff;
-  background-color: #ea8e75;
+  background-color: #ed8728;
   padding: 5px 8px;
   border-radius: 3px;
 }
@@ -230,7 +230,7 @@ body {
   font-weight: bold;
   font-size: 3rem;
   margin: 10px 0 0;
-  color: #c36050;
+  color: #fbb825;
 }
 
 .nine p {
@@ -244,13 +244,13 @@ body {
 }
 
 #replay:hover {
-  color: #f3a690;
+  color: #fbb825;
 }
 
 #replay {
   z-index: 3;
   cursor: pointer;
-  color: #ea8e75;
+  color: #ed8728;
 }
 
 /* Media Queries */
@@ -319,7 +319,7 @@ body {
   .wish h5 {
     font-size: 1.4rem;
     font-weight: bold;
-    color: #c36050;
+    color: #fbb825;
   }
 
   .nine p {
@@ -332,6 +332,6 @@ body {
   }
 
   #replay:hover {
-    color: #f3a690;
+    color: #fbb825;
   }
 }
